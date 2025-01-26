@@ -12,15 +12,11 @@ Type: Internship
 
 ### 1. QUBO Problem to Final Equation
 
-![Persentasi KP Final.png](attachment:77d02263-7910-4211-bded-e6dbdc0294c5:Persentasi_KP_Final.png)
-
 To solve the QUBO equation with a quantum computer, we transform the components x ∈ {0, 1} into Pauli operators Z with z ∈ {−1, 1}. For details of the formula derivation that I did, you can see what I attached above.
 
 ### 2. VQE (Variational Quantum Eigensolver)
 
-For the adaptation and application of this algorithm in the field of finance, a quantum computer simulator called Pennylane is used, which is a module that runs in the Python programming language with stages as in the following flowchart.
-
-![image.png](attachment:c07e2e9d-7bab-444b-9636-2550b3cadf86:image.png)
+For the adaptation and application of this algorithm in the field of finance, a quantum computer simulator called Pennylane is used, which is a module that runs in the Python programming language that integrated with machine learning algorithm.
 
 ---
 
